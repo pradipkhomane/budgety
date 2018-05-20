@@ -6,9 +6,9 @@ budgetController = (function(){
 UIController = (function(){
 
     var DOMStrings = {
-        inputType = '.add__type',
-        inputDescription = '.add__description',
-        inputValue = '.add__value'
+        inputType : '.add__type',
+        inputDescription : '.add__description',
+        inputValue : '.add__value'
     } 
 
     return {
